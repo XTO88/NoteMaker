@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoteMaker</string>
+    <string name="create_note">Create Note</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_note">Enter Note</string>
+    <string name="add_picture">Add Picture</string>
+    <string name="submit_note">Submit</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="delete_all">Delete All Notes</string>
+</resources>
